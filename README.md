@@ -1,4 +1,5 @@
-# RZ Monitor
+# Website Online Status
+## RZ Monitor
 
 RZ Monitor is a command-line tool made to watch website using RZ-CMS and others too…
 It's based on *cURL* and it downloads each url and searches for CMS version.
